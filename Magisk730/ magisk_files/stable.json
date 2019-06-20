@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "7.3.1",
-    "versionCode": "221",
+    "version": "7.3.0",
+    "versionCode": "220",
     "link": "",
     "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/12bbc7fd6b3ba4de40a661bfef7f4f8685793e83/app/src/main/res/raw/changelog.md"
   },
