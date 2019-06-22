@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "7.3.2",
-    "versionCode": "224",
+    "versionCode": "223",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.2/MagiskManager-v7.3.2.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/120bd6cd68e0fe446adcc3329f63d8bc72f12e5a/app/src/main/res/raw/changelog.md"
   },
